@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reddit meme</string>
+    <string name="testText">Switch?</string>
+
+    <string-array name="melee">
+        <item>Fox</item>
+        <item>Falco</item>
+        <item>Marth</item>
+    </string-array>
+</resources>
